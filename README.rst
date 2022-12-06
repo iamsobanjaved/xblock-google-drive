@@ -5,7 +5,7 @@ Notice: This repo will be moved to the `edx organization <https://github.com/edx
 #######
 
 This XBlock allows embedding of Google documents and calendar, within an
-edX course.
+edX course. test
 
 Installation
 ------------
